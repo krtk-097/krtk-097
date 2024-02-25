@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, I'm Kartik Sharma</h1>
-<h3 align="center">I am a Full Stack Developer from India.</h3>
-<p align="center">
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, I'm Kartik Sharma</h1>
+<h3>I am a Full Stack Developer from India.</h3>
+<!-- <p align="center">
 <img src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif">
- </p>
+ </p> -->
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/kartiksharma01/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
